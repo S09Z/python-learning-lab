@@ -1,0 +1,402 @@
+[
+    {
+        "Question": "The capital of the United States is Washington, D.C.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The capital of Germany is Berlin.",
+        "Answer": "True"
+    },
+    {
+        "Question": "Mercury is the hottest planet in the Solar System.",
+        "Answer": "False"
+    },
+    {
+        "Question": "Mercury is the closest planet to the Sun.",
+        "Answer": "True"
+    },
+    {
+        "Question": "Albert Einstein developed the theory of relativity.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The human body has four kidneys.",
+        "Answer": "False"
+    },
+    {
+        "Question": "The capital of Brazil is Rio de Janeiro.",
+        "Answer": "False"
+    },
+    {
+        "Question": "The Pythagorean Theorem is used in trigonometry.",
+        "Answer": "True"
+    },
+    {
+        "Question": "Water freezes at 0 degrees Celsius.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The human body has two kidneys.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The speed of sound is faster than the speed of light.",
+        "Answer": "False"
+    },
+    {
+        "Question": "Photosynthesis is the process by which plants make their own food.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The largest island in the world is Greenland.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The capital of Egypt is Cairo.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The capital of Japan is Tokyo.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The longest river in Africa is the Nile.",
+        "Answer": "True"
+    },
+    {
+        "Question": "Photosynthesis is the process by which plants make their own food.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The human body has over 600 muscles.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The Great Wall of China is visible from space.",
+        "Answer": "False"
+    },
+    {
+        "Question": "The capital of Brazil is Rio de Janeiro.",
+        "Answer": "False"
+    },
+    {
+        "Question": "The capital of Australia is Canberra.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The human body has five senses.",
+        "Answer": "True"
+    },
+    {
+        "Question": "Octopuses have three hearts.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The chemical symbol for gold is Au.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The Pacific Ocean is the smallest ocean on Earth.",
+        "Answer": "False"
+    },
+    {
+        "Question": "The capital of Australia is Canberra.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The Great Wall of China is located in India.",
+        "Answer": "False"
+    },
+    {
+        "Question": "The tallest building in the world is in Dubai.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The Great Pyramid of Giza is one of the Seven Wonders of the Ancient World.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The Great Pyramid of Giza is one of the Seven Wonders of the Ancient World.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The Amazon Rainforest is the largest rainforest in the world.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The capital of India is New Delhi.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The chemical symbol for gold is Au.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The Eiffel Tower is located in Paris.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The capital of France is Lyon.",
+        "Answer": "False"
+    },
+    {
+        "Question": "The Great Wall of China is about 21,196 kilometers long.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The longest river in Africa is the Nile.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The chemical symbol for gold is Au.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The sun is a star.",
+        "Answer": "True"
+    },
+    {
+        "Question": "An octopus has eight arms.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The Great Wall of China is about 21,196 kilometers long.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The human eye can distinguish about 10 million different colors.",
+        "Answer": "True"
+    },
+    {
+        "Question": "A pentagon has five sides.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The square root of 64 is 8.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The capital of Russia is Moscow.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The chemical symbol for carbon is C.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The tallest mountain in the world is K2.",
+        "Answer": "False"
+    },
+    {
+        "Question": "The primary colors are red, blue, and green.",
+        "Answer": "False"
+    },
+    {
+        "Question": "There are 26 letters in the English alphabet.",
+        "Answer": "True"
+    },
+    {
+        "Question": "Octopuses have three hearts.",
+        "Answer": "True"
+    },
+    {
+        "Question": "Birds are reptiles.",
+        "Answer": "False"
+    },
+    {
+        "Question": "The capital of France is Lyon.",
+        "Answer": "False"
+    },
+    {
+        "Question": "The Statue of Liberty was a gift from France.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The capital of Italy is Rome.",
+        "Answer": "True"
+    },
+    {
+        "Question": "A triangle has three sides.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The capital of Italy is Rome.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The largest desert in the world is the Arctic Desert.",
+        "Answer": "False"
+    },
+    {
+        "Question": "The chemical symbol for hydrogen is H.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The capital of the United States is Washington, D.C.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The Earth is the third planet from the Sun.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The Earth's atmosphere is composed mainly of oxygen.",
+        "Answer": "False"
+    },
+    {
+        "Question": "The Great Wall of China is about 21,196 kilometers long.",
+        "Answer": "True"
+    },
+    {
+        "Question": "Bats are mammals.",
+        "Answer": "True"
+    },
+    {
+        "Question": "Birds are reptiles.",
+        "Answer": "False"
+    },
+    {
+        "Question": "Albert Einstein developed the theory of relativity.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The capital of the United States is Washington, D.C.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The largest island in the world is Greenland.",
+        "Answer": "True"
+    },
+    {
+        "Question": "Penguins are found in the Antarctic.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The human skeleton is made up of 206 bones.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The human eye can distinguish about 10 million different colors.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The human body has three lungs.",
+        "Answer": "False"
+    },
+    {
+        "Question": "The largest desert in the world is the Arctic Desert.",
+        "Answer": "False"
+    },
+    {
+        "Question": "The capital of the United States is Washington, D.C.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The longest river in Africa is the Nile.",
+        "Answer": "True"
+    },
+    {
+        "Question": "Venus is the hottest planet in the Solar System.",
+        "Answer": "True"
+    },
+    {
+        "Question": "A triangle has three sides.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The Great Wall of China is about 21,196 kilometers long.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The capital of Russia is Moscow.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The Great Pyramid of Giza is one of the Seven Wonders of the Ancient World.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The chemical symbol for sodium is Na.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The sun is a star.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The capital of Japan is Tokyo.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The chemical symbol for carbon is C.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The human eye can distinguish about 10 million different colors.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The capital of Mexico is Mexico City.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The capital of Spain is Madrid.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The capital of Brazil is Rio de Janeiro.",
+        "Answer": "False"
+    },
+    {
+        "Question": "The capital of France is Lyon.",
+        "Answer": "False"
+    },
+    {
+        "Question": "The tallest mountain in the world is K2.",
+        "Answer": "False"
+    },
+    {
+        "Question": "A leap year has 366 days.",
+        "Answer": "True"
+    },
+    {
+        "Question": "There are 26 letters in the English alphabet.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The chemical symbol for gold is Au.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The human skeleton is made up of 206 bones.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The sun rises in the east.",
+        "Answer": "True"
+    },
+    {
+        "Question": "Venus is the hottest planet in the Solar System.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The human body has over 600 muscles.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The Great Pyramid of Giza is in Egypt.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The Great Barrier Reef is located off the coast of Australia.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The capital of Italy is Rome.",
+        "Answer": "True"
+    },
+    {
+        "Question": "Bananas grow on trees.",
+        "Answer": "False"
+    }
+]

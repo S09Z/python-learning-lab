@@ -1,22 +1,29 @@
-class User:
-    counter = 1
+from question_model import Question
+from quiz_brain import QuizBrain
 
-    def __init__(self):
-        self.id = f"00{self.counter}"
-
-    def update(self):
-        self.counter += 1
-        self.id = f"00{self.counter}"
+import os
+import pandas as pd
+import json
 
 
-user_1 = User()
+# Define the directory containing the JSON files
+directory = './questions/'
+jsonFileName = 'common_knowledge_questions_set_'
 
-print(f"\n>>>> {user_1.id}")
+# Check if the directory exists
+if os.path.exists(directory):
+    index = 1
+    quizStore = []
 
-user_1.update()
+    for f in os.listdir(directory):
+        if (f.find(jsonFileName) >= 0):
+            data = pd.read_json(f"{directory}/{f}")
+            df = pd.DataFrame(data)
+            quizStore.append(Question(df["Question"], df["Answer"]))
+        index += 1
 
-print(f"\n>>>> {user_1.id}")
+    # print(quizStore)
 
-user_1.update()
-
-print(f"\n>>>> {user_1.id}")
+    QuizBrain(quizStore)
+else:
+    print(f"The directory {directory} does not exist.")

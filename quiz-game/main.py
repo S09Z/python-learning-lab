@@ -13,17 +13,16 @@ jsonFileName = 'common_knowledge_questions_set_'
 # Check if the directory exists
 if os.path.exists(directory):
     index = 1
-    quizStore = []
+    quizStore = pd.DataFrame()
 
     for f in os.listdir(directory):
         if (f.find(jsonFileName) >= 0):
             data = pd.read_json(f"{directory}/{f}")
             df = pd.DataFrame(data)
-            quizStore.append(Question(df["Question"], df["Answer"]))
+            quizStore = pd.concat([quizStore, df[["Question", "Answer"]]], ignore_index=True)
         index += 1
 
-    # print(quizStore)
-
-    QuizBrain(quizStore)
+    quiz = QuizBrain(quizStore.sample(frac=1).reset_index(drop=True).to_dict(orient='records'))
+    quiz.NextQuestion()
 else:
     print(f"The directory {directory} does not exist.")

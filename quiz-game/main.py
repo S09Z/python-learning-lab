@@ -10,6 +10,8 @@ import json
 directory = './questions/'
 jsonFileName = 'common_knowledge_questions_set_'
 
+# https://opentdb.com/api_config.php more questions data to load.
+
 # Check if the directory exists
 if os.path.exists(directory):
     index = 1

@@ -23,6 +23,7 @@ if os.path.exists(directory):
         index += 1
 
     quiz = QuizBrain(quizStore.sample(frac=1).reset_index(drop=True).to_dict(orient='records'))
-    quiz.NextQuestion()
+    while (quiz.still_has_question_left()):
+        quiz.next_question()
 else:
     print(f"The directory {directory} does not exist.")

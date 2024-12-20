@@ -24,6 +24,7 @@ pytest = "^8.3.2"
 pylint = "^3.2.6"
 matplotlib = "^3.5.3"
 mlflow = "^2.16.2"
+streamlit = "1.40.0"
 
 
 [tool.poetry.group.dev.dependencies]
